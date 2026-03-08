@@ -12,11 +12,12 @@
   * Hematology
   * Automated Chemistry
 * 🧠 Interested in:
+Transcriptomics (RNA-seq)
+Single Cell Analysis
+Gene Expression Analysis
+Neuroscience
+brain cell type transcriptomics
 
-  * Bioinformatics
-  * Genomics
-  * Data Science
-  * Transcriptomics
 * 📊 Currently learning advanced bioinformatics pipelines and computational biology
 
 ---
