@@ -1,5 +1,4 @@
 <h2 align="left">
- <br>Hi there! 👋<br>
  <br> I'm Mazen, Biotechnology Student & Junior Bioinformatician 🧬<br>
 </h2>
 
