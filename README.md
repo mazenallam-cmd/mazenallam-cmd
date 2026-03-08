@@ -17,7 +17,7 @@
   * Bioinformatics
   * Genomics
   * Data Science
-  * Systems Biology
+  * Transcriptomics
 * 📊 Currently learning advanced bioinformatics pipelines and computational biology
 
 ---
@@ -60,7 +60,7 @@
 * Single Cell Analysis
 * Gene Expression Analysis
 * Pathway Analysis
-* Protein–Protein Interaction Networks
+
 
 ---
 
